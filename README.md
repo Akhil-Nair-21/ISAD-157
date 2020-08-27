@@ -1,7 +1,5 @@
 # ISAD-157
 Referral
-//code starts from here
-
 Use ISAD157_ANair;
 Create Table Users
 ( 
